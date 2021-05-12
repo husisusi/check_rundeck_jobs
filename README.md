@@ -1,4 +1,4 @@
-# check_rundeck_jobs
+# check_rundeck_jobs For Nagios
 Check if all Rundeck jobs succeed and list fail Jobs.
 ## Works with MYSQL und MariaDB Database.
 
