@@ -16,7 +16,7 @@ done
 if [ $# -lt 8 ]
   then
     echo "No enough arguments supplied!!!"
-    echo "To use it do: check_rundeck.sh -H DB_HOST_AP -u DB_USER -p DB_Passwor -d DB_Name"
+    echo "To use it do: check_rundeck.sh -H DB_HOST_AP -u DB_USER -p DB_Password -d DB_Name"
     echo "(optional default=48) -a Not_Older_Than_Hours"
 exit
 fi
